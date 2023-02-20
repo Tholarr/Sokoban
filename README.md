@@ -17,4 +17,4 @@ Just execute the following command :
 ## Usage
 Execute the program with the following command :
 
-    ./sokoban
+    ./my_sokoban
